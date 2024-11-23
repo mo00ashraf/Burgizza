@@ -11,7 +11,7 @@ function Footer() {
             <div className='footer'>
 
                 <div className='footer-list list-1'>
-                    <h2  className="logo">Foodie.</h2>
+                    <h2  className="logo">Burgizza.</h2>
                     <p>Financial experts support or help you to to find out which way you can raise your funds more.</p>
                     <div className='icons'>
                         <h2><FaFacebookSquare /></h2>
@@ -23,9 +23,9 @@ function Footer() {
 
                 <div className='footer-list'>
                     <h2>Contact Info</h2>
-                    <p>+92 062 109-9222</p>
-                    <p>Info@YourGmail24.com</p>
-                    <p>153 Williamson Plaza, Maggieberg, MT 09514</p>
+                    <p>+20 100-9463-549</p>
+                    <p>mohamed00ashraf2020@gmail.com</p>
+                    <p>154 ismailia ismaili egypt</p>
                 </div>
 
                 <div className='footer-list'>

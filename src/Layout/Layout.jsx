@@ -11,9 +11,9 @@ function Layout() {
             <Outlet />
             <Footer />
             <div className='credit'>
-                Copyright Ⓒ 2023 Foodie. All Rights Reserved.
+                Copyright Ⓒ 2024 Foodie. All Rights Reserved.
                 <div>
-                Crafted by M.Abdullah 2023
+              Crafted by Mohamed Ashraf
                 </div>
             </div>
         </div>
