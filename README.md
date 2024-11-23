@@ -1,6 +1,6 @@
-# Foodie - Restaurant Web App
+# Burgizza - Restaurant Web App
 
-Welcome to Foodie, a dynamic restaurant web app with a variety of features to enhance the user experience. .
+Welcome to Burgizza, a dynamic restaurant web app with a variety of features to enhance the user experience. .
 
 ## Features
 
@@ -17,7 +17,7 @@ And much more
 - **Framer Motion**
 - **CSS**
 
-![Foodie](./src/assets/Foodie.png)
+![Burgizza](./src/assets/Foodie.png)
 
 
 
